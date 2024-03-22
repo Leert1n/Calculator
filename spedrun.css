@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Anybody', sans-serif;
+}
+
+.main-text{
+    text-align: center;
+    font-size: 24px;
+    line-height: 61px;
+    color: white;
+}
+body{
+    background: rgba(23, 22, 79, 0.82);
+}
+.main-header{
+    background: rgba(10, 16, 49, 0.73);
+    height: 61px;
+}
+.bottom-div-cont{
+    display: flex;
+    text-align: center;
+    position: relative;
+    top:510px;
+}
+.bottom-input{
+    background: rgba(83, 92, 145, 0);
+    align-items: center;
+    outline: none;
+    border: 1px solid gray;
+}
